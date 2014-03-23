@@ -13,7 +13,9 @@ fi
 
 for file in "$@"
 do
-    echo "Uploading $file..."
-    curl -s -o /dev/null -w "%{http_code}\n" "$host/solr/$core/update?commit=true&tr=doc.xsl" -H "Content-Type: text/xml" --data-binary @$file
+    echo -ne "Uploading $file... "
+    echo `curl -s -o /dev/null -w "%{http_code}\n" "$host/solr/$core/update?commit=false&tr=doc.xsl" -H "Content-Type: text/xml" --data-binary @$file`
 done
+echo "Committing..."
+curl -s -o /dev/null -w "%{http_code}\n" "$host/solr/$core/update?commit=true"
 

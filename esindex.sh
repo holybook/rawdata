@@ -15,7 +15,7 @@ echo -ne "Deleting index... "
 echo `curl -s -o /dev/null -w "%{http_code}\n" -XDELETE "$host:9200/books"`
 
 echo -ne "Creating index... " 
-echo `curl -s -o /dev/null -w "%{http_code}\n" -XPUT "$host:9200/books" --data-binary @index.yml`
+echo `curl -s -o /dev/null -w "%{http_code}\n" -XPUT "$host:9200/books" --data-binary @index.json`
 
 echo "Indexing..."
 ./esupload.sh reference-library/Abdul_Baha_in_London.xml

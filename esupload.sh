@@ -1,6 +1,9 @@
 host=$ES_HOST
 core=$ES_CORE
 
+read -p "Enter User: " user
+read -s -p "Enter Password: " password
+
 if [[ -z $host ]]; then
   echo "Could not find environment variable ES_HOST using default";
   host="http://localhost"
@@ -14,8 +17,7 @@ fi
 for file in "$@"
 do
     echo -ne "Uploading $file... "
-    xsltproc  -o tmp xml2json.xsl $file 
-    echo `curl -s -o /dev/null -w "%{http_code}\n" -XPOST "$host:9200/books/$core/_bulk" --data-binary @tmp`
+    echo `curl -u "$user:$password" -s -o /dev/null -w "%{http_code}\n" -XPOST "$host:9200/_book" --data-binary @$file`
 done
 
 rm tmp

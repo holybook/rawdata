@@ -1,6 +1,9 @@
 host=$ES_HOST
 core=$ES_CORE
 
+read -p "Enter User: " user
+read -s -p "Enter Password: " password
+
 if [[ -z $host ]]; then
   echo "Could not find environment variable ES_HOST using default";
   host="http://localhost"
@@ -12,11 +15,15 @@ if [[ -z $core ]]; then
 fi
 
 echo -ne "Deleting index... "
-echo `curl -s -o /dev/null -w "%{http_code}\n" -XDELETE "$host:9200/books"`
+echo `curl -u "$user:$password" -s -o /dev/null -w "%{http_code}\n" -XDELETE "$host:9200/books"` 
 
 echo -ne "Creating index... " 
-echo `curl -s -o /dev/null -w "%{http_code}\n" -XPUT "$host:9200/books" --data-binary @index.json`
+echo `curl -u "$user:$password" -s -o /dev/null -w "%{http_code}\n" -XPUT "$host:9200/books" --data-binary @index.json` 
 
 echo "Indexing..."
-./esupload.sh reference-library/*.xml
+for file in reference-library/*.xml
+do
+    echo -ne "Uploading $file... "
+    echo `curl -u "$user:$password" -s -o /dev/null -w "%{http_code}\n" -XPOST "$host:9200/_book" --data-binary @$file`
+done
 

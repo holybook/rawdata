@@ -61,6 +61,16 @@
                     "index" : "not_analyzed",
                     "store" : true
                 },
+                "section_index" : {
+                    "type" : "integer",
+                    "index" : "not_analyzed",
+                    "store" : true
+                },
+                "index" : {
+                    "type" : "integer",
+                    "index" : "not_analyzed",
+                    "store" : true
+                },
                 "suggest" : 
                 { 
                     "type" : "completion"

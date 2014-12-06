@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<book author="Various" language="en" pages="37" religion="bahai" source="Compiled by the Research Department of the Universal House of Justice, Bahá’í World Centre, April 2007" title="Ḥuqúqu’lláh—The Right of God">
+<book author="Various" id="HuququllahThe_Right_of_God" language="en" pages="37" religion="bahai" source="Compiled by the Research Department of the Universal House of Justice, Bahá’í World Centre, April 2007" title="Ḥuqúqu’lláh—The Right of God">
     <section title="1. Foundations of the Law of Ḥuqúqu’lláh">
         <p>Magnified art Thou, O Lord of the entire creation, the One unto Whom all things must turn! With my inner and outer tongues I bear witness that Thou hast manifested and revealed Thyself, sent down Thy signs, and proclaimed Thy testimonies. I testify to Thy self-sufficiency from aught else except Thee, and Thy sanctity above all earthly things. I entreat Thee by the transcendent glory of Thy Cause and the supreme potency of Thy Word to grant confirmation unto him who desireth to offer what Thou hast prescribed unto him in Thy Book and to observe that which will shed forth the fragrance of Thine acceptance. Verily Thou art the Almighty, the All-Gracious, the All-Forgiving, the All-Generous.</p>
     </section>
@@ -23,11 +23,6 @@
     <section title="7. “O Zayn! Such souls as comply with the injunction of God prescribed in…”">
         <p>O Zayn! Such souls as comply with the injunction of God prescribed in the Book are regarded as most excellent in the estimation of God. There can be no doubt that whatsoever is revealed from the heaven of divine commandment is by virtue of His wisdom and is in the best interests of the people themselves. Moreover, although these insignificant amounts are not worthy of mention, they are well pleasing, since the donors offer them for the sake of God. If the offering be but a single grain it is regarded as the crowning glory of all the harvests of the world.</p>
     </section>
-    <section title="8. “Whoso is privileged to pay the Right of God will be numbered with such…”">
-        <p>Whoso is privileged to pay the Right of God will be numbered with such as have observed the ordinances of the one true God—magnified be His glory—and have fulfilled that which is set down by the All-Glorious Pen.</p>
-        <p>Time and again have We written and commanded that no one should solicit such payment. The offering of every person that voluntarily tendereth the Ḥuqúqu’lláh with the utmost joy and pleasure may be accepted, otherwise acceptance was not and is not permissible. Those that are oblivious of their duty should be briefly reminded. Deeds must be performed with willingness, and in all circumstances high regard must be given to the dignity of the Cause of God. Formerly We have mentioned that were a person to possess the whole world and would tender his possessions at the cost of degrading the honour of the Cause, even to the extent of a grain of mustard, it would be essential and imperative to refuse to accept such wealth. Such is the Cause of God, eternal in the past, eternal in the future. Well is it with them that act accordingly.</p>
-        <p>The ordinance prescribing the payment of Ḥuqúq is but a favour vouchsafed by the one true God—exalted be His glory—and the benefits arising therefrom shall fall to the donors themselves. It behoveth all to render thanks unto God, the Most Exalted, Who hath graciously enabled them to meet the obligation of Ḥuqúq. We held back the Pen for a long period during which no instruction was issued in this respect, until such time as the requirements of His inscrutable wisdom demanded the acceptance of Ḥuqúq. “Averse is God from putting aught into effect except through its means.” It is essential for certain people to receive aid, and others need attention and care, but all this must take place by the leave of God, the Help in Peril, the Self-Subsisting.</p>
-    </section>
     <section title="9. “And now concerning what thou hast mentioned regarding the…”">
         <p>And now concerning what thou hast mentioned regarding the Ḥuqúq. This hath been ordained especially for the one true God—exalted be His glory—and should be forwarded to the court of His Holy Presence. In His grasp is the source of authority. He doeth what He pleaseth and ordaineth what He chooseth….</p>
         <p>This ordinance is binding upon everyone, and by observing it one will be raised to honour inasmuch as it will serve to purify one’s possessions and will impart blessing, and added prosperity. However, the people are as yet ignorant of its significance. They continually endeavour to amass riches by lawful or unlawful means in order to transmit them to their heirs, and this to what advantage, no one can tell. Say: In this day the true Heir is the Word of God, since the underlying purpose of inheritance is the preservation of the name and traces of men. It is indubitably clear that the passing of centuries and ages will obliterate these signs, while every word that hath streamed from the Pen of Glory in honour of a certain individual will last as long as the dominions of earth and heaven will endure.</p>
@@ -43,9 +38,6 @@
     </section>
     <section title="11. “It is incumbent upon everyone to discharge the obligation of…”">
         <p>It is incumbent upon everyone to discharge the obligation of Ḥuqúq. The advantages gained from this deed revert to the persons themselves. However, the acceptance of the offerings dependeth on the spirit of joy, fellowship and contentment that the righteous souls who fulfil this injunction will manifest. If such is the attitude, acceptance is permissible and not otherwise. Verily thy Lord is the All-Sufficing, the All-Praised.</p>
-    </section>
-    <section title="12. “It is clear and evident that the payment of the Right of God is…”">
-        <p>It is clear and evident that the payment of the Right of God is conducive to prosperity, to blessing, and to honour and divine protection. Well is it with them that comprehend and recognize this truth and woe betide them that believe not. And this is on condition that the individual should observe the injunctions prescribed in the Book with the utmost radiance, gladness and willing acquiescence. It behoveth you to counsel the friends to do that which is right and praiseworthy. Whoso hearkeneth to this call, it is to his own behoof, and whoso faileth bringeth loss upon himself. Verily our Lord of Mercy is the All-Sufficing, the All-Praised.</p>
     </section>
     <section title="13. “Ḥuqúqu’lláh is indeed a great law. It is incumbent…”">
         <p>Ḥuqúqu’lláh is indeed a great law. It is incumbent upon all to make this offering, because it is the source of grace, abundance, and of all good. It is a bounty which shall remain with every soul in every world of the worlds of God, the All-Possessing, the All-Bountiful.</p>
@@ -94,10 +86,6 @@
         <p>We earnestly hope that in this Most Great Cycle the wondrous attributes of the All-Merciful may, through the infinite bounty and blessings of the King of Glory, find expression in the lives of the servants of God in such wise that the sweet savours thereof will shed fragrance upon all regions.</p>
         <p>This matter needeth further details, but We have treated it in brief.</p>
     </section>
-    <section title="24. “O my heavenly friends! It is certain and evident that the Incomparable…”">
-        <p>O my heavenly friends! It is certain and evident that the Incomparable One is always praised for His absolute wealth, distinguished for His all-embracing mercy, characterized by His eternal grace, and known for His gifts to the world of existence. Nonetheless, in accordance with His inscrutable wisdom and in order to apply a unique test to distinguish the friend from the stranger, He hath enjoined the Ḥuqúq upon His servants and made it obligatory.</p>
-        <p>Those who have observed this weighty ordinance have received heavenly blessings and in both worlds their faces have shone radiantly and their nostrils have been perfumed by the sweet savours of God’s tender mercy. One of the tokens of His consummate wisdom is that the payment of the Ḥuqúq will enable the donors to become firm and steadfast and will exert a great influence on their hearts and souls. Furthermore, the Ḥuqúq will be used for charitable purposes.</p>
-    </section>
     <section title="25. “The Blessed Beauty—may my life be offered up for His Dust—hath…”">
         <p>The Blessed Beauty—may my life be offered up for His Dust—hath emphasized through His decisive Word that the utmost honesty hath to be observed in matters related to the Ḥuqúq. The institution of Ḥuqúq is sacred.</p>
     </section>
@@ -132,9 +120,6 @@
     </section>
     <section title="2. Application of the Law of Ḥuqúqu’lláh">
         <p>They that have kept their promises, fulfilled their obligations, redeemed their pledges and vows, rendered the Trust of God and His Right unto Him—these are numbered among the inmates of the all-highest Paradise. Thus from His mighty Prison doth the Wronged One announce unto them this glad-tiding. Blessed are the servants and maidservants that have performed their deeds and blessed is the man that hath cleaved tenaciously unto praiseworthy acts and fulfilled that which is enjoined upon him in the Book of God, the Lord of the worlds.</p>
-    </section>
-    <section title="34. “The payment of the Right of God is conditional upon one’s financial…”">
-        <p>The payment of the Right of God is conditional upon one’s financial ability. If a person is unable to meet his obligation, God will verily excuse him. He is the All-Forgiving, the All-Generous.</p>
     </section>
     <section title="35. “Question: Concerning the basic sum on which…”">
         <p>Concerning the basic sum on which Ḥuqúqu’lláh is payable.</p>
@@ -317,17 +302,6 @@
         <p>Our conclusion is that the property which is assessable to Ḥuqúqu’lláh is all that a person possesses on the date that the Law becomes applicable to him. This does not mean, of course, that he must immediately pay the Ḥuqúqu’lláh that is due, since to do so might require him to dispose of many of his belongings and place him in a very difficult situation. But the principle of computation is clear, and the Ḥuqúqu’lláh due should ultimately be paid.</p>
         <p></p>
     </section>
-    <section title="71. “You ask about the applicability of the law of…”">
-        <p>You ask about the applicability of the law of Ḥuqúqu’lláh to the money that a believer spends on “travelling for the Faith, living a little more generously” and so forth. Our impression from answers given to other questions is that this is a matter for the conscience of the individual. There is, in fact, a vast range of expenditures which could, or could not, be included under the heading of normal annual expenses which are to be set against income before arriving at the sum assessable to Ḥuqúqu’lláh. In the specific case of contributions to the various funds of the Faith, the Universal House of Justice has already stated that it is for the individual to decide whether he will consider these as part of his normal expenditure or will pay them out of his savings which have been cleared.</p>
-        <p></p>
-    </section>
-    <section title="72. “The Office of Ḥuqúqu’lláh in the Holy Land referred to…”">
-        <p>The Office of Ḥuqúqu’lláh in the Holy Land referred to the Universal House of Justice the questions on the law of Ḥuqúqu’lláh attached to your letter of 21 April 1993, and we have been instructed to send you the following answers.</p>
-        <p>1.There are, indeed, differences among a person’s debts in relation to the calculation and payment of Ḥuqúqu’lláh. With regard to computation, debts are, naturally, to be offset against assets. With regard to priority of payment, one should take into account the terms of a loan. If a schedule of payments has been specified, and one will be able to meet them from anticipated income when they are due, one should, of course, pay one’s Ḥuqúqu’lláh in the meantime. If, however, one cannot meet the payment of both, the debt must take precedence.</p>
-        <p>2.The relative priority of the payment of Ḥuqúqu’lláh and of contributing to the funds of the Faith is made clear in section 105 of the compilation on Ḥuqúqu’lláh. The House of Justice does not wish to go beyond this at the present time.</p>
-        <p>3.Freedom is left to each husband and wife to decide whether to comply with their obligations to Ḥuqúqu’lláh jointly or separately because the House of Justice does not wish to interfere with the right of each couple to decide how they wish to deal with their own finances. One couple may prefer to own their property jointly; another may prefer to keep their respective properties separate; or there may be various combinations of these arrangements.</p>
-        <p></p>
-    </section>
     <section title="73. “Your letters of 24 and 25 May 1993 and the booklet you sent were…”">
         <p>Your letters of 24 and 25 May 1993 and the booklet you sent were received by the Office of Ḥuqúqu’lláh. The two questions you raised were referred to the Universal House of Justice, which has now instructed us to send you the following reply.</p>
         <p>1.Funds being saved up for the purchase of a residence are not exempt from Ḥuqúqu’lláh. Thus, if the person were to die before purchasing a residence, these savings would be assessable to Ḥuqúq. However, … it is left to the individual, who is saving to buy a residence, to decide whether to pay Ḥuqúqu’lláh on the money as he saves it, and then count the exemption when the residence is actually purchased, or to postpone the inclusion of the savings in his calculation of Ḥuqúqu’lláh until after the residence is purchased, at which time, of course, the value of the residence becomes exempt.</p>
@@ -387,9 +361,6 @@
     <section title="84. “O Abu’l Ḥasan!…”">
         <p>O Abu’l Ḥasan!</p>
         <p>May my Glory rest upon thee! Fix thy gaze upon the glory of the Cause. Speak forth that which will attract the hearts and the minds. To demand the Ḥuqúq is in no wise permissible. This command was revealed in the Book of God for various necessary matters ordained by God to be dependent upon material means. Therefore, if someone, with utmost pleasure and gladness, nay with insistence, wisheth to partake of this blessing, thou mayest accept. Otherwise acceptance is not permissible.</p>
-    </section>
-    <section title="85. “Whenever they make reference to the Ḥuqúq, let them…”">
-        <p>Whenever they make reference to the Ḥuqúq, let them confine themselves to a mere word uttered for the sake of God and this will suffice; coercion is unnecessary, inasmuch as God hath never wished that those engaged in His service should experience any hardship. Verily He is the Forgiving, the Merciful, the Gracious, the All-Bountiful.</p>
     </section>
     <section title="86. “If a person is willing to offer the Right of God, such offering should…”">
         <p>If a person is willing to offer the Right of God, such offering should be received by the Trustees, to whom reference hath been made in the Book of God. This ordinance hath, in view of certain considerations, been revealed from the heaven of divine Revelation as a token of His grace. The advantages arising therefrom shall fall to the individuals themselves. Verily He speaketh the truth and there is none other God but Him, the Mighty, the Powerful.</p>
@@ -483,9 +454,6 @@
     </section>
     <section title="106. “And now concerning the poor, thou hast written to ask whether it is…”">
         <p>And now concerning the poor, thou hast written to ask whether it is permissible to pay them out of the Right of God. This is conditional upon permission having been granted. In each locality where the Right of God is being received, details of it must be submitted to His exalted presence together with a statement describing the position of the needy ones. Verily He doeth what He willeth and ordaineth what He pleaseth. If permission were to be given universally it would lead to strife and give rise to trouble.</p>
-    </section>
-    <section title="Extract from the Writings of ‘Abdu’l-Bahá">
-        <p>According to the explicit text of the Most Holy Book the amounts offered for the Ḥuqúq should be deposited in a place and be disbursed, as necessary. However thou shouldst not require anyone there to offer the Ḥuqúq unless someone is prepared to do so willingly and of his own free choice.</p>
     </section>
     <section title="Extract from a Letter Written by Shoghi Effendi">
         <p>In accordance with the explicit text of the Will and Testament, Ḥuqúqu’lláh should be expended on teaching the Cause of God in countries throughout the East and the West, establishing institutions, building Bahá’í Temples and promoting benevolent undertakings and the general weal.</p>

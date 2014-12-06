@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<book author="Bahaullah" language="en" pages="52" religion="bahai" source="US Bahá’í Publishing Trust, 1985 reprint" title="The Hidden Words of Bahá’u’lláh">
+<book author="Bahaullah" id="The_Hidden_Words_of_Bahaullah" language="en" pages="52" religion="bahai" source="US Bahá’í Publishing Trust, 1985 reprint" title="The Hidden Words of Bahá’u’lláh">
     <section title="Part I.—From the Arabic">
         <p>HE IS THE GLORY OF GLORIES</p>
         <p></p>
@@ -9,9 +9,6 @@
     </section>
     <section title="“2: O SON OF SPIRIT! The best beloved of all things in My sight is Justice;…”">
         <p>O SON OF SPIRIT! The best beloved of all things in My sight is Justice; turn not away therefrom if thou desirest Me, and neglect it not that I may confide in thee. By its aid thou shalt see with thine own eyes and not through the eyes of others, and shalt know of thine own knowledge and not through the knowledge of thy neighbor. Ponder this in thy heart; how it behooveth thee to be. Verily justice is My gift to thee and the sign of My loving-kindness. Set it then before thine eyes.</p>
-    </section>
-    <section title="“3: O SON OF MAN! Veiled in My immemorial being and in the ancient…”">
-        <p>O SON OF MAN! Veiled in My immemorial being and in the ancient eternity of My essence, I knew My love for thee; therefore I created thee, have engraved on thee Mine image and revealed to thee My beauty.</p>
     </section>
     <section title="“4: O SON OF MAN! I loved thy creation, hence I created thee. Wherefore,…”">
         <p>O SON OF MAN! I loved thy creation, hence I created thee. Wherefore, do thou love Me, that I may name thy name and fill thy soul with the spirit of life.</p>
@@ -293,9 +290,6 @@
     <section title="“24: O YE THAT ARE FOOLISH, YET HAVE A NAME TO BE WISE!…”">
         <p>O YE THAT ARE FOOLISH, YET HAVE A NAME TO BE WISE! Wherefore do ye wear the guise of shepherds, when inwardly ye have become wolves, intent upon My flock? Ye are even as the star, which riseth ere the dawn, and which, though it seem radiant and luminous, leadeth the wayfarers of My city astray into the paths of perdition.</p>
     </section>
-    <section title="“25: O YE SEEMING FAIR YET INWARDLY FOUL! Ye are like clear but bitter water, which to outward…”">
-        <p>O YE SEEMING FAIR YET INWARDLY FOUL! Ye are like clear but bitter water, which to outward seeming is crystal pure but of which, when tested by the divine Assayer, not a drop is accepted. Yea, the sun beam falls alike upon the dust and the mirror, yet differ they in reflection even as doth the star from the earth: nay, immeasurable is the difference!</p>
-    </section>
     <section title="“26: O MY FRIEND IN WORD! Ponder awhile. Hast thou ever heard that friend…”">
         <p>O MY FRIEND IN WORD! Ponder awhile. Hast thou ever heard that friend and foe should abide in one heart? Cast out then the stranger, that the Friend may enter His home.</p>
     </section>
@@ -405,9 +399,6 @@
     </section>
     <section title="“61: O SON OF MAN! A dewdrop out of the fathomless ocean of My…”">
         <p>O SON OF MAN! A dewdrop out of the fathomless ocean of My mercy I have shed upon the peoples of the world, yet found none turn thereunto, inasmuch as every one hath turned away from the celestial wine of unity unto the foul dregs of impurity, and, content with mortal cup, hath put away the chalice of immortal beauty. Vile is that wherewith he is contented.</p>
-    </section>
-    <section title="“62: O SON OF DUST! Turn not away thine eyes from the matchless wine…”">
-        <p>O SON OF DUST! Turn not away thine eyes from the matchless wine of the immortal Beloved, and open them not to foul and mortal dregs. Take from the hands of the divine Cup-bearer the chalice of immortal life, that all wisdom may be thine, and that thou mayest hearken unto the mystic voice calling from the realm of the invisible. Cry aloud, ye that are of low aim! Wherefore have ye turned away from My holy and immortal wine unto evanescent water?</p>
     </section>
     <section title="“63: O YE PEOPLES OF THE WORLD! Know, verily, that an unforeseen calamity followeth…”">
         <p>O YE PEOPLES OF THE WORLD! Know, verily, that an unforeseen calamity followeth you, and grievous retribution awaiteth you. Think not that which ye have committed hath been effaced in My sight. By My beauty! All your doings hath My pen graven with open characters upon tablets of chrysolite.</p>

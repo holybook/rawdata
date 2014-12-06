@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<book author="Various" language="en" pages="113" religion="bahai" source="Bahá’í Publishing Trust of Japan, 1992 revised edition" title="Japan Will Turn Ablaze!">
+<book author="Various" id="Japan_Will_Turn_Ablaze" language="en" pages="113" religion="bahai" source="Bahá’í Publishing Trust of Japan, 1992 revised edition" title="Japan Will Turn Ablaze!">
     <section title="[Frontispiece]">
         <p></p>
         <p>[Table of contents elided]</p>
@@ -129,12 +129,6 @@
         <p>O thou who proclaimest the Kingdom of God!</p>
         <p>Thy letter has been received and gave much joy. Praise be to God that the confirmations of the Kingdom of Abhá reached and thou becamest the cause of guidance of the souls. It is my hope that in Korea thou wilt raise the banner of the Greatest Guidance. Convey my utmost kindness to Mr. Roh . I have utmost love for him and ask for him Heavenly blessings.</p>
         <p>(November 7, 1921, Haifa. Received in Tokyo, February 14, 1922)</p>
-    </section>
-    <section title="2: Dr. George J. Augur 1853–1927">
-        <p>Dr. George Jacob Augur, a dedicated and deeply spiritual “Disciple of ‘Abdu’l-Bahá” received several Tablets from ‘Abdu’l-Bahá. At the Master’s summons Dr. Augur left his home in Honolulu and went to Japan. He arrived the first time in June 1914 and stayed until April 1915. He made several other trips to Japan with his wife, Ruth, also a firm believer. The Augurs worked closely with Miss Alexander to establish the Faith in Japan. While there Dr. Augur lived in the Japanese style, learned Japanese and wore the kimono. With ‘Abdu’l-Bahá’s permission he returned to Hawaii to stay in 1919.</p>
-        <p>O thou dear son!</p>
-        <p>From thy letter the fragrance of the rose garden of significances was inhaled, that praise be to God, thou art assisted by the Divine confirmations, hast found the way to the Kingdom of God and thy heart and soul are quickened. Arise thou to perform the blessed intention thou art holding and travel thou to Japan and lay there the foundation of the Cause of God, that is, summon the people to the Kingdom of God. Japan has great capacity, but there needs be a teacher who will speak by the confirmations of the Holy Spirit. I hope thou wilt become assisted in this.</p>
-        <p>(Translated by Ahmad Sohrab, Ramleh, Egypt, November 21, 1913)</p>
     </section>
     <section title="[Tablet Translated February 12, 1914]">
         <p>O thou who art advancing toward the Kingdom!</p>
@@ -352,13 +346,6 @@
         <p>O ye daughters of the Kingdom! (Six school girls; Otoe Murakami, Kimiko Hagiwara, Kazu Fukusawa, Haruko Mori, Yuri Takao, and Yuri Mochizuki)</p>
         <p>Your congratulation on the Feast has been received. Its perusal imparted joy and happiness. Through the Bounties of the Supreme Lord do I hope that these daughters of the Kingdom will, day by day, progress so that they may, like unto a magnet, attract the Divine confirmations. I am always supplicating for you that ye may attain to the Most Great Bestowal and act and behave according to the Teachings of His Holiness Bahá’u’lláh.</p>
         <p>(August 19, 1920. Translated by Azizullah Bahadur)</p>
-    </section>
-    <section title="[Tablet of August 19, 1920]">
-        <p>O seekers for the Truth! (revealed to nine persons, eight of whom were young men students)</p>
-        <p>Praise God that you have heard the celestial Call, seen the ray of the Sun of Truth, followed the right Direction and reached the longed-for Home!</p>
-        <p>You have sent me your congratulations for the Feast: I was very much gratified at your feelings and at the fact that such a tie exists now between East and West, such friendship between different nations!</p>
-        <p>It is evident that, through your efforts, the inhabitants of those regions are now inhaling the fragrances of Musk from the Garden of the Kingdom. In Japan the divine proclamation will be heard as a formidable explosion, so that those who are ready will become uplifted and illumined by the Light of the Sun of Truth.</p>
-        <p>(August 19, 1920)</p>
     </section>
     <section title="[Tablet of January 11, 1921]">
         <p>O ye daughters of the Kingdom! (the previously mentioned six school girls)</p>
@@ -650,15 +637,6 @@
         <p>May the Beloved bless you and keep you, reward you abundantly for your manifold services, and enable you to extend the scope of your meritorious activities.</p>
         <p>Your true brother, Shoghi</p>
         <p>(May 11, 1936)</p>
-    </section>
-    <section title="[Letter of November 3, 1936]">
-        <p>Regarding your wish to visit the Holy Shrines, he (the Guardian) fully approves of it and wishes me to extend to you a most hearty welcome.</p>
-        <p>(signed by H. Rabbani)</p>
-        <p>(in the Guardian’s handwriting)</p>
-        <p>Dear and valued co-worker:</p>
-        <p>Your previous letters of May 21 and June 29 have also reached me, and I deeply appreciate the sentiments they convey. The strike and disturbances in Palestine have at last ceased and the obstacles to your pilgrimage have been removed. I would be so pleased to meet you face to face at this Holy Spot.</p>
-        <p>Your true brother, Shoghi</p>
-        <p>(November 3, 1936)</p>
     </section>
     <section title="[Letter of November 19, 1936]">
         <p>The Guardian wishes me to heartily congratulate you for the success of your efforts in connection with the publication of this new (Japanese) Braille edition of “Bahá’u’lláh and the New Era”, which undoubtedly constitutes a most valuable addition to the literature of the Cause for the blind. I wish to also ask you to transmit the Guardian’s grateful appreciation and thanks to Mr. Torii for his painstaking labours for the preparation of this new Braille publication on the Cause.</p>
@@ -1280,28 +1258,12 @@
         <p>(signed by R. Rabbani)</p>
         <p>(March 18, 1957)</p>
     </section>
-    <section title="[Letter of August 18, 1957]">
-        <p>To Mr. William Maxwell</p>
-        <p>The Guardian was happy to learn that you are still in Korea and that you are able to continue in the teaching work of that important country. He knows that wherever you are you will carry forward the pressing requirements of the Faith with vigor and enthusiasm but he feels that Korea and even Japan particularly need the help of yourself and other American pioneers at this time.</p>
-        <p>(signed by Leroy Ioas)</p>
-        <p>(August 18, 1957)</p>
-    </section>
     <section title="[Letter of October 18, 1957]">
         <p>To Mr. Eugene Schreiber</p>
         <p>The Master was most hopeful of the spread of the Faith in Japan. Now that His Promises are being fulfilled, the friends must be very happy. Likewise this happiness must translate itself into renewed devotion so that the Call of God may be raised in all parts of that important country.</p>
         <p>The Guardian is praying for the success of the teaching work in Japan.</p>
         <p>(signed by Leroy Ioas)</p>
         <p>(October 18, 1957)</p>
-    </section>
-    <section title="14: Shoghi Effendi Writes to Emperor Showa of Japan">
-        <p>Emperor Showa (Hirohito) of Japan had the longest reign (December 25, 1926 to January 7, 1989) of any reigning sovereign in Japan. He was respected as a scholar; being an eminent marine biologist, and he was beloved by his people.</p>
-        <p>Following the custom in Japan, the reign of a new emperor is given a specially selected name. After that emperor dies he takes on the name of the reign. Consequently, Emperor Hirohito, as he was known during his reign, is now known as Emperor Showa.</p>
-        <p>At the time of his coronation in the fall of 1928 seven specially bound Bahá’í books were presented to His Majesty. The books which were sent in the name of two American Bahá’ís were presented by Dr. Rokuichiro Masujima, who was a friend of Miss Alexander and who was close to the Faith. He had access to the Imperial Household.</p>
-        <p>Shoghi Effendi was asked to write something to be sent with the books. The message sent to accompany the books was “May the perusal of Bahá’í literature enable Your Imperial Majesty to appreciate the sublimity and penetrative power of Bahá’u’lláh’s Revelation and inspire you on this auspicious occasion to arise for its worldwide recognition and triumph.”</p>
-        <p>The books arrived after the coronation ceremonies so the presentation was delayed. On May 22 of the following year Dr. Masujima received a letter from the Minister of the Imperial Household that the seven books had been presented to the Emperor that day.</p>
-        <p>During World War II the palace did not suffer destruction so undoubtedly the books and message are still there with the other coronation gifts.</p>
-        <p>In 1930 the great Bahá’í teacher Miss Martha Root visited Japan. She sent two gifts to the Emperor; a small Persian rug and a sheet of Holy Writings written in Persian script in the form of a beautiful bird. Accompanying the gifts was a cable from Shoghi Effendi: “Martha Root care American Embassy Tokyo. Kindly transmit His Imperial Majesty, Tokyo, Japan on behalf of myself and Bahá’ís world over, expression of our deepest love as well as assurance of heartfelt prayers for his well-being and prosperity of his ancient realm.”</p>
-        <p>Japan, after recovery from the devastation of World War II, shows the prosperity that the Guardian prayed for, and the Emperor, active and healthy until the end had a very long and fruitful reign.</p>
     </section>
     <section title="15: Message from the Universal House of Justice to the North Pacific Oceanic Conference, Sapporo, Japan, September, 1971">
         <p>To the Friends of God Assembled in the Conference of the North Pacific Ocean.</p>

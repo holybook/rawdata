@@ -1,6 +1,6 @@
-{ 
+{
     "settings" :
-    { 
+    {
         "number_of_shards" : 1,
         "number_of_replicas" : 1,
         "auto_expand_replicas" : "0-all",
@@ -8,7 +8,7 @@
         {
             "analyzer" :
             {
-                "en" : 
+                "en" :
                 {
                     "type" : "custom",
                     "tokenizer": "standard",
@@ -24,27 +24,26 @@
                 "remove_accents" : {
                     "type" : "pattern_replace",
                     "pattern" : "[`'ʿ]",
-                    "replace" : "" 
+                    "replace" : ""
                 }
             }
         }
     },
-    "mappings" : 
+    "mappings" :
     {
         "en" : {
             "_source" : {
-                "enabled" : false
+                "enabled" : true
             },
             "_all" : {
                 "enabled" : false
             },
             "properties" : {
-                "text" : { 
+                "text" : {
                     "type" : "string",
                     "store" : true,
                     "index" : "analyzed",
-                    "analyzer" : "en",
-                    "copy_to" : ["suggest"]
+                    "analyzer" : "en"
                 },
                 "author" : {
                     "type" : "string",
@@ -70,12 +69,8 @@
                     "type" : "integer",
                     "index" : "not_analyzed",
                     "store" : true
-                },
-                "suggest" : 
-                { 
-                    "type" : "completion"
                 }
             }
         }
-    }      
+    }
 }

@@ -44,9 +44,39 @@
                     "type" : "integer",
                     "index" : "not_analyzed"
                 },
+                "paragraphs" : {
+                    "type" : "integer",
+                    "index" : "not_analyzed"
+                },
                 "source" : {
                     "type" : "object",
                     "properties" : {
+                        "name" : {
+                            "type" : "string",
+                            "analyzer" : "en"
+                        }
+                    }
+                },
+                "author" : {
+                    "type" : "object",
+                    "properties" : {
+                        "id" : {
+                            "type" : "string",
+                            "index" : "not_analyzed"
+                        },
+                        "name" : {
+                            "type" : "string",
+                            "analyzer" : "en"
+                        }
+                    }
+                },
+                "religion" : {
+                    "type" : "object",
+                    "properties" : {
+                        "id" : {
+                            "type" : "string",
+                            "index" : "not_analyzed"
+                        },
                         "name" : {
                             "type" : "string",
                             "analyzer" : "en"
